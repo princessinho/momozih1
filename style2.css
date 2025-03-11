@@ -1,0 +1,41 @@
+h1{
+    background-color: rgb(255, 0, 0);
+    font-size: 50px;
+    color: aliceblue;
+}
+h2{
+    font-size: 40px;background-color: rgb(255, 0, 0);
+    color: antiquewhite;
+    font-size: 45px;
+}
+body{
+    text-align: center;
+    font-size: 25px;
+    background-color: rgba(0, 0, 0, 0.63);
+    
+}
+ul{
+    font-size: 25px;
+    text-align: left;
+    color: rgb(255, 255, 255);
+}
+h3{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
+    font-size: 45px;
+}
+h4{
+    background-color: rgb(255, 0, 0);
+    color: aliceblue;
+    font-size: 45px;
+}
+h5{
+    background-color: rgb(255, 0, 0);
+    color: aliceblue;
+    font-size: 45px;
+}
+h6{
+    background-color: rgb(255, 0, 0);
+    color: aliceblue;
+    font-size: 45px;
+}
